@@ -1,7 +1,9 @@
 #include <iostream>
+#include <iomanip>
+
 using namespace std;
 
-int volume(int height, int width, int length);
+int volume(int height, int width, int length); //variable declaration
 
 int main() {
     int box1Height, box1Width, box1Length;
@@ -31,3 +33,5 @@ int main() {
 }
 
 // Implement the Volume() function here
+ int volume(int height, int width, int length)
+}
